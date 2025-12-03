@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Dill",
+  "base_artist": "豊崎愛生",
+  "createdAt": "2025-12-03T10:40:41.888041Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Want It All - Roland M. Dill Remix",
+      "artist": "Depeche Mode",
+      "has_synced": false,
+      "path": "select/01_I_Want_It_All_-_Roland_M._Dill_Remix_Depeche_Mode.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Want It All (Roland M. Dill remix)",
+      "artist": "Depeche Mode",
+      "has_synced": false,
+      "path": "select/02_I_Want_It_All_(Roland_M._Dill_remix)_Depeche_Mode.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dill Tutda",
+      "artist": "Jassie Gill feat. Goldboy",
+      "has_synced": true,
+      "path": "select/03_Dill_Tutda_Jassie_Gill_feat._Goldboy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dill Tutda",
+      "artist": "Jassie Gill",
+      "has_synced": true,
+      "path": "select/04_Dill_Tutda_Jassie_Gill.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dill",
+      "artist": "豊崎 愛生",
+      "has_synced": false,
+      "path": "select/05_Dill_豊崎_愛生.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dill",
+      "artist": "豊崎愛生",
+      "has_synced": false,
+      "path": "select/06_Dill_豊崎愛生.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Want It All [Roland M. Dill Remix]",
+      "artist": "Depeche Mode",
+      "has_synced": false,
+      "path": "select/07_I_Want_It_All_[Roland_M._Dill_Remix]_Depeche_Mode.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Careless Ft. Dill",
+      "artist": "Zedk",
+      "has_synced": true,
+      "path": "select/08_Careless_Ft._Dill_Zedk.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dill Laggi",
+      "artist": "Farasat Anees",
+      "has_synced": false,
+      "path": "select/09_Dill_Laggi_Farasat_Anees.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dill",
+      "artist": "豊崎 愛生",
+      "has_synced": false,
+      "path": "select/pl_01_Dill_豊崎_愛生.txt"
+    }
+  ]
+}
